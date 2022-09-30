@@ -11,7 +11,7 @@ package de.schlaukopf.organisation;
  * - Philosoph:  reden, rauchen, schlafen, trinken, denken, getClass, equals, hashCode. toString
  * - Schlaukopf: reden, denken,  getClass, equals, hashCode. toString
  * - Object:  getClass, equals, hashCode. toString
- * @author Alfa
+ * @author Yasin
  *
  */
 
