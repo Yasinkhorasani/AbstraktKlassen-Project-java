@@ -14,7 +14,7 @@ import java.util.Random;
  * 
  * Philosoph kann nicht instanziiert werden (abstrakte Klassen können nicht instanziiert werden)
  * 
- * @author Alfa
+ * @author Yasin
  *
  */
 public abstract class Philosoph implements Schlaukopf{
