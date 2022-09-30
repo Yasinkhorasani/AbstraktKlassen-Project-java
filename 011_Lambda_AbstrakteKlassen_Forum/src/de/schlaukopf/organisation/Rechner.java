@@ -7,7 +7,7 @@ package de.schlaukopf.organisation;
  * Klassen/Lambdas die Interface implementieren verküpfen zwei double-Zahlen miteinnder
  * zB ein Addierer: addiert die beiden Zahlen
  * ein Multipizierer multipliziert die beiden Zahlen...
- * @author Alfa
+ * @author Yasin
  *
  */
 
