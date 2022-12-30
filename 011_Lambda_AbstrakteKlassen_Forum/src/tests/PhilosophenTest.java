@@ -7,7 +7,7 @@ import de.schlaukopf.organisation.Schlaukopf;
 /**
  * testet die Klasse Naturphilosoph
  * Demonstiert den Umgang mit abstrakten Klassen
- * @author Alfa
+ * @author Yasin
  *
  */
 public class PhilosophenTest {
