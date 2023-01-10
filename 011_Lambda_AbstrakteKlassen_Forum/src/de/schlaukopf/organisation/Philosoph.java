@@ -33,7 +33,7 @@ public abstract class Philosoph implements Schlaukopf{
 	 * Methode kann überschrieben werden, muss sie aber nicht
 	 */
 	public void trinken() {
-		System.out.println("Am liebsten trinke ich Wein");
+		System.out.println("Am liebsten und trinke ich Wein");
 	}
 	
 	/**
